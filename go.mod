@@ -1,3 +1,3 @@
-module github.com/zxhoper/colorNoteMini
+module colorNoteMini
 
 go 1.19
